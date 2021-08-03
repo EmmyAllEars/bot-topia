@@ -1,30 +1,18 @@
-//bridge-file-version: #3
 {
-	"format_version": 2,
-	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
-		"uuid": "61ee56da-98dc-497f-a32a-996045841bd9",
-		"version": [
-			1,
-			0,
-			12
-		],
-		"min_engine_version": [
-			1,
-			17,
-			10
-		]
-	},
-	"modules": [
-		{
-			"type": "resources",
-			"uuid": "b92632db-9ee2-4a67-8831-bc584a5d2882",
-			"version": [
-				1,
-				0,
-				12
-			]
-		}
-	]
+  "format_version": 2,
+  "header": {
+    "description": "Bot-Topia Realms Edition §e*Mob Greifing must be turned §lON§r§e for this addon to work",
+    "name": "Bot-Topia Realms Edition",
+    "uuid": "34adb82f-d00c-4a1d-bc9a-614f4c5d5d67",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "description": "Bot-Topia Realms Edition§e*Mob Greifing must be turned §lON§r§e for this addon to work",
+      "type": "resources",
+      "uuid": "21855902-a88f-4f56-b61d-07bf837cd0bc",
+      "version": [1, 0, 1]
+    }
+  ]
 }
